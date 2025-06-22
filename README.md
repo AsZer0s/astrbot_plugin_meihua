@@ -1,9 +1,17 @@
-# helloworld
+# 梅花易数插件
 
-AstrBot 插件模板
+AstrBot 插件模板，实现梅花易数起卦与解卦功能。
 
-A template plugin for AstrBot plugin feature
-
-# 支持
+## 支持
 
 [帮助文档](https://astrbot.app)
+
+## 功能介绍
+
+- **自动起卦**：通过当前时间自动生成卦象。
+- **三数起卦**：用户提供三个数字，计算对应的卦象。
+- **卦象解释**：基于《周易》原文提供卦象解读。
+
+## 使用示例
+
+1. 自动起卦：
